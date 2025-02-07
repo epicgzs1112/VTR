@@ -1,0 +1,392 @@
+[
+    {
+        "taxonomy_id": "02691156",
+        "taxonomy_name": "aeroplane",
+        "baseline": {
+            "1-view": 0.513,
+            "2-view": 0.536,
+            "3-view": 0.549,
+            "4-view": 0.556,
+            "5-view": 0.561
+        },
+        "train": [
+            "1a6ad7a24bb89733f412783097373bdc",
+            "1d1244abfefc781f35fc197bbabcd5bd",
+            "1d663e36e305fa8e2178120752ee7a07",
+            "3764de22af04fd32a993db466b6d73d3",
+            "404714cf775f5ceed32761b337f8b72a",
+            "545cadae487b55bbc46ba5100bcdc520",
+            "6a47f4d30d54771e8782c935066e938",
+            "6d93492543d1087eb87697d3904b168b",
+            "77ab8bb69221b13bbc0909d98a1ff2b4",
+            "842e5dcd452f34aa8caa71b1fbf7fb98",
+            "959044f10e27b89ee664ce1de3ddc8b4",
+            "9d65814e1b252fb01636caafca838500",
+            "a6afd80fa3d70682ca8607f540cc62ba",
+            "b82731071bd39b66e4c15ad8a2edd2e",
+            "cb8fb401a278fc36bbf3143b1cb6076a",
+            "da58b3e055132c9f6afab9f956f15ea",
+            "ee92bc35ee989f59271b3fb2659dec56"
+        ]
+    },
+    {
+        "taxonomy_id": "02828884",
+        "taxonomy_name": "bench",
+        "baseline": {
+            "1-view": 0.421,
+            "2-view": 0.484,
+            "3-view": 0.502,
+            "4-view": 0.516,
+            "5-view": 0.527
+        },
+        "train": [
+            "1ef8c3cabd16f7cbf155d75bbf62b80",
+            "273c618c2d24a562ad5067eac75a07f7",
+            "2c183b1b94d94d34ad5067eac75a07f7",
+            "323ff904411c3d427c64e9314d548016",
+            "367e5ca5d5791739d4d8765e3910f617",
+            "530b1267e70cf134d4d8765e3910f617",
+            "68df3d5c8ef4cb307cd7dbf0f3d6d9cc",
+            "702870d836ea3bf32056b4bd5d870b47",
+            "7d67ed4517c1d702ed98cca8f0ccd5f7",
+            "8bcf6b5dc0c19e6cad5067eac75a07f7",
+            "913cb50bf5d336238b0239afbed4a626",
+            "9d7185edf0717575a6195e775546b04a",
+            "aa27d1ed2ebb8ebdd2b12aa6a0f050b3",
+            "af264c02f69566cdf4fb4dee5181bee",
+            "beae527c550f5ce8e4ed7bd95fe664b",
+            "edec9a4512b98f6f2056b4bd5d870b47",
+            "f6219339c25b42fe81faebbdea6bd9be"
+        ]
+    },
+    {
+        "taxonomy_id": "02933112",
+        "taxonomy_name": "cabinet",
+        "baseline": {
+            "1-view": 0.716,
+            "2-view": 0.746,
+            "3-view": 0.763,
+            "4-view": 0.767,
+            "5-view": 0.772
+        },
+        "train": [
+            "12cb11dbb135ca9ac59350d819542ec7",
+            "154f41bbdd20cd9d8430b7446f9e1252",
+            "1a4ff09890565843c59350d819542ec7",
+            "1aeff9aef2610ee1c59350d819542ec7",
+            "21f3c0d4604587b4da5feafe6f1c8fc",
+            "27cfe222aec3463bc59350d819542ec7",
+            "2862558059dd584c59350d819542ec7",
+            "37fbc4e7c9e46b602b5631520b7d94fe",
+            "5382680280ef5b57d0b36851d61b6fca",
+            "54f801646e066ce92afc25cef0918375",
+            "6723be3b8435e27bb6146c7a77e1b943",
+            "740392e1c6522664c20c4293bea04a44",
+            "8714a704af18d44b11a97ee9284a563",
+            "99ff3359d64f1f45ce5d6e9371bb5c33",
+            "aa0280a7d959a18930bbd4cddd04c77b",
+            "ca6d108120fa949163d977b06bbd429d",
+            "e0d37d661f26e9eb4b8710a3469971b1"
+        ]
+    },
+    {
+        "taxonomy_id": "02958343",
+        "taxonomy_name": "car",
+        "baseline": {
+            "1-view": 0.798,
+            "2-view": 0.821,
+            "3-view": 0.829,
+            "4-view": 0.833,
+            "5-view": 0.836
+        },
+        "train": [
+            "1d4b2404a00ef4bb627014ff98c41eb1",
+            "1fde8f41c6a39c07111f983eb293b51a",
+            "2a771048127cf0b85dca6305fb9f97ca",
+            "2ccaaa66525d7f095473e57e894e0ef5",
+            "32f458e413dfce699cf7b84b43bdd8f",
+            "335b3ad6f7a96bf251a95aaa6caba1d3",
+            "36f8760e54a7a1835cb0db8915167503",
+            "663bec87ecf2e0adad0e351bfd714e3b",
+            "791885fd798b1981c1006ed55bc1a3fc",
+            "804c21bdd416783176ad064d1c5fdd7c",
+            "808e19aed606f10cf919864ecec729ac",
+            "8fdc090f498ddb39f63ee8a34069b7c5",
+            "93942ab3fc970415c596a26318046886",
+            "b866d7e1b0336aff7c719d2d87c850d8",
+            "bcf4d748b5f3f13dafe1d4530f4c6e24",
+            "e05680db6f028c15bda733a39f84326d",
+            "fa563c2b77839dafc0e3666c7d0ec7d0"
+        ]
+    },
+    {
+        "taxonomy_id": "03001627",
+        "taxonomy_name": "chair",
+        "baseline": {
+            "1-view": 0.466,
+            "2-view": 0.515,
+            "3-view": 0.533,
+            "4-view": 0.541,
+            "5-view": 0.55
+        },
+        "train": [
+            "10de9af4e91682851e5f7bff98fb8d02",
+            "5607b02869c1f8a019fb4103277a6b93",
+            "700b11e2ea3e941faffa8ecba9b9d6f4",
+            "7139a30ff80da3a6b12dfa50fc9e07e6",
+            "7727d0eef3eeb3ba73b2b620da30da86",
+            "816d1c517ef6bf7890a9ce3e4b15521e",
+            "87a3ee7e68f360351db0d76a41d718a1",
+            "8830354625df010037b71c02ebe8cb4d",
+            "8e9812ad9e12d467679c9e94dfb2276d",
+            "9183a9f6e6237492c90fb40095d2be6f",
+            "b2239339005b14c8d675cc466d0d6fbc",
+            "b37f1363aa93688619fb4103277a6b93",
+            "c3a3d9cdaf29cf6597c8d78b9aede742",
+            "cbc9014bb6ce3d902ff834514c92e8fd",
+            "dae8b3ac69d80cf1b94e60a139ac4b1c",
+            "ee4858f78dc33591100e9bd5c4b0af54",
+            "fd2fbaa023b5e3a81718a174f9ac28ba"
+        ]
+    },
+    {
+        "taxonomy_id": "03211117",
+        "taxonomy_name": "display",
+        "baseline": {
+            "1-view": 0.468,
+            "2-view": 0.527,
+            "3-view": 0.545,
+            "4-view": 0.558,
+            "5-view": 0.565
+        },
+        "train": [
+            "198eebeca7243399ca5ca7089655f058",
+            "51b92bb1df3b1a10ad1d87becf13ddd9",
+            "64c23d38d98f7529811348287b48cb45",
+            "777a8a1c887779f47ac59aba6f9a1449",
+            "7e1212c48c877b87eca8a38e13335285",
+            "846b6c8cf241ce2648d13901d1f48e04",
+            "909bd886fceb080a6facfc0053fedfbe",
+            "ac06493582be880388c7562a134f5ac2",
+            "b2ec76ac8a5c7afa40ff33d80c1d7d1e",
+            "b3a975cb984a8fc6cc98452c8fce6b43",
+            "c514d99259ffe1abe441f5bb6f88ca61",
+            "cc3adfb500c1d443b441e189e5a85c02",
+            "d34a267fb332b052901fed29c825c894",
+            "dddc8d8cdd6361e49c9fa9de1518212",
+            "df624231ef05b83d54c7ab6aa5674ccc",
+            "e1eac12837bcadcf44d2fe7d13c65f0c",
+            "f4d398256e6ec0b4f910da6a487551c"
+        ]
+    },
+    {
+        "taxonomy_id": "03636649",
+        "taxonomy_name": "lamp",
+        "baseline": {
+            "1-view": 0.381,
+            "2-view": 0.406,
+            "3-view": 0.415,
+            "4-view": 0.416,
+            "5-view": 0.421
+        },
+        "train": [
+            "19654d8fe7090a887eaeab1f0c9120b7",
+            "20af3e3a79e7023a6c342cf382162bc7",
+            "39acb6226133f9e0e4c9b82a33ca42e6",
+            "5383c9b60d5b66a2d22730b0728b2fc9",
+            "53bac55dfe78177282889f551cb32a81",
+            "58588e4f7c57007e11bd92e9690e7fc2",
+            "5859f1dcc6e47322e7c7920f6a65a54d",
+            "66cf69a98ff895e2b55fde51a411949f",
+            "68491d576b5d35aade8e7376ce4e111f",
+            "6efc48bb9267c2ab4c6deb9ede0648df",
+            "78f5bbde973fa96780b013c1c827c9b8",
+            "8e78283cdb07db1fb33cda5c8e604e7a",
+            "8eee3b5fd2f3abd4bcde6f92ef1f7ee7",
+            "a11dd450220af960ca70272754aeb3c9",
+            "d87a2d766579f15e38b27a25d1336579",
+            "e0aa085dfdb0ac03ef3a2c64cef919d0",
+            "e37de82cff38f88d1735ea0e092a805a"
+        ]
+    },
+    {
+        "taxonomy_id": "03691459",
+        "taxonomy_name": "speaker",
+        "baseline": {
+            "1-view": 0.662,
+            "2-view": 0.696,
+            "3-view": 0.708,
+            "4-view": 0.714,
+            "5-view": 0.717
+        },
+        "train": [
+            "26369dd5c4cc8c55e9e3ed40810044f",
+            "3b1a3eee64e3412b6aa8ee471986facb",
+            "6c1ab06a1ae2471e86bb0379a61a0978",
+            "7f2cb859eb00046d3bb72a8bf55ec27d",
+            "80aab147daf83cde332fd8bcb8108236",
+            "91bab54d8d14100161d3e32ec60a98b7",
+            "acbcfec18a26c4583247f812f2eaa97",
+            "b6ac65861f2b7a726bd362b3eb022b32",
+            "b78e6c1ed34b29e7fdd1073b17e9e51e",
+            "bda24b02920f91d1887e8faf8f33b0c5",
+            "c398c35b48c31188c73a379f25dda815",
+            "d3817d6003473f1c3971c6f4f1d0a4a0",
+            "e71f2c0e0c760ae98139dd63d55edc44",
+            "e849b0017baa1a978a0181490cb73cbc",
+            "e878e519af882f493fc48162942e3418",
+            "f682ee3b4f4dc3fcce029fab54b6cfbd",
+            "fff40d102ca88fdb52648dc23b25b1d"
+        ]
+    },
+    {
+        "taxonomy_id": "04090263",
+        "taxonomy_name": "rifle",
+        "baseline": {
+            "1-view": 0.544,
+            "2-view": 0.582,
+            "3-view": 0.593,
+            "4-view": 0.595,
+            "5-view": 0.6
+        },
+        "train": [
+            "1d9d85fdf5241ec31dfb190851825aa0",
+            "1fdccad4c0b826680685c30eb1daeb1",
+            "30a2198addc7de5cedb0c6ac5ecac060",
+            "3efa6bed63249f928bd9de6b28931bb0",
+            "40ad008d081e3d40fa9286f039319ff7",
+            "43e2cd954ae1e3ed18bc22abef3f86ce",
+            "4d4fdcb113d7ed643a6842b1f893c19",
+            "5105e493bcf5e63f75a82b88fe6e733f",
+            "5870c596f2359677d3360026d8a2282d",
+            "58f7db3c6be48a83537e3f6cd50ed63c",
+            "5e2661c632995b4e40c568d90bfc809d",
+            "8e461cdfdb0536e1b5666ac9dae008e8",
+            "973181651497efa3230a4d129580843a",
+            "bc187370b495d54b4c82ce83dca284f9",
+            "d0eac7ba7e964d72cc34b900bb2492e",
+            "d9c6c64bc9b2c1e0a5dd675711905b91",
+            "f7f945288a571090202be79d8b285c1e"
+        ]
+    },
+    {
+        "taxonomy_id": "04256520",
+        "taxonomy_name": "sofa",
+        "baseline": {
+            "1-view": 0.628,
+            "2-view": 0.677,
+            "3-view": 0.69,
+            "4-view": 0.698,
+            "5-view": 0.706
+        },
+        "train": [
+            "248e014f31771b31d3ddfaaa242f81a1",
+            "294dbaa0e9afde3a35836c728d324152",
+            "423d4e5cadc6dbdaeaf288f952624966",
+            "4b3f84ca13baf80be0c381fdfcdec36d",
+            "621dab02dc0ac842e7891ff53b0e70d",
+            "75d58cb9ca1475f86f37a8be59c15bbb",
+            "9beb39285a581fa1f2e202d571b458dc",
+            "a1743777bd7c796b57ae08c3105b4e6a",
+            "aadc03f6499b5ec5b60747861a92b009",
+            "c59ef7c56b4d184f9cd431573238602d",
+            "c9e41b8e7827cd963dbb061ded33aea",
+            "d53620b3769bcbd664518692a46d31bd",
+            "ea49f8fc66df2b1819fb4103277a6b93",
+            "f1e174f8ac0f5254490ad276cd2af3a4",
+            "f4a0d0169abf306a754ec1f2eef2c6cc",
+            "f92dd3f4d0b4475514038d588fd1342f",
+            "fcdc852692f43041fdac1e69603928f"
+        ]
+    },
+    {
+        "taxonomy_id": "04379243",
+        "taxonomy_name": "table",
+        "baseline": {
+            "1-view": 0.513,
+            "2-view": 0.55,
+            "3-view": 0.564,
+            "4-view": 0.573,
+            "5-view": 0.58
+        },
+        "train": [
+            "27b9211229e1bf011f3980612faf041b",
+            "2cdbe6c91dbe4fbabc7589eefbdbc3c5",
+            "2f98d5e721e84debaa8081a7009091db",
+            "4019bfe9bd7605f7a52709499e423710",
+            "47758895632d44efba4e573e8ad2f887",
+            "55b586076edb416ea169b9ecd9e046dc",
+            "73d4df18ad195ba6492d9da2668ec34c",
+            "7918d848b37db85ee1495fb833264cc9",
+            "864499eb14b077b4e5aa1f8c960ae63",
+            "9d02362926dcb3f6951c1fffab4f5807",
+            "c1d808c75cc5e7ab4da5bb83ec125010",
+            "c876b151a22b59a24702663c3b3faf8f",
+            "e27d9fece990d39a0f23466c3c25e2e",
+            "e49636394d4b0189523e5ffab409f73",
+            "e69dd1a9bbeb62523002761e7a3ba3bd",
+            "ebae52c84acf994e9e4da01b847d5cb2",
+            "f2e6820ca69d9b7719fb4103277a6b93"
+        ]
+    },
+    {
+        "taxonomy_id": "04401088",
+        "taxonomy_name": "telephone",
+        "baseline": {
+            "1-view": 0.661,
+            "2-view": 0.717,
+            "3-view": 0.732,
+            "4-view": 0.738,
+            "5-view": 0.754
+        },
+        "train": [
+            "1292caa1282ad8cffc3c4ad908ac06f4",
+            "33db5943a8942fdfd998bbb6a9d203d8",
+            "342ef21b1ed9615685feaf23dbe1f454",
+            "4546af9a8a67e7439c3dc4e242073921",
+            "5148da752bcd11884ce243cdbc967ce2",
+            "59e5dc88174971c567964ba700cd97f5",
+            "5c141e299b50f1139f24fa4acce33c04",
+            "8ec3b148b8c608a0562c671ec5000f23",
+            "9fd7db6d334e6acab29f572d1167c0ed",
+            "a82fbd031a79f88eb6d41c42f7ade8c8",
+            "abcda75b9f826fce8dd7bd77b545a577",
+            "b801c4ebbc1149b34961b0d325e91640",
+            "c5188dbebddbad3597cfb99c9c9efbb5",
+            "d7ed913a3888696d289b03e5721252f3",
+            "e8508eef82fb9163a1288f74f9304471",
+            "ee7d2d986f2c989ac66dc18b3cf1700",
+            "f022d7789de219e1fb7ad0eb0a148aa8"
+        ]
+    },
+    {
+        "taxonomy_id": "04530566",
+        "taxonomy_name": "watercraft",
+        "baseline": {
+            "1-view": 0.513,
+            "2-view": 0.576,
+            "3-view": 0.596,
+            "4-view": 0.604,
+            "5-view": 0.61
+        },
+        "train": [
+            "16f53391dba14c9829ebc23acefb248a",
+            "1d6bcf04874000a9ea96bfd37cd8bdfb",
+            "2d136ffca92d9c4e3639e751e7f78cf0",
+            "306aa8588bead6f3ccbb877d944b8a64",
+            "4ce56405f7f67d3c38cd6a6c9620e96d",
+            "50c0bd9933f7259fe59358c5e6239c84",
+            "5c54100c798dd681bfeb646a8eadb57",
+            "677fb8c312d9c5642712ffd807ced208",
+            "739a6f209a49040a4f44d84b9baa5f42",
+            "7e7ec66ebdd4df7ed1745f739fc0fa03",
+            "99acfc63ec4f4ad09f97ca916781e800",
+            "ac93c084dc99fa8a1613e32ab05e546d",
+            "cc4f56a126353cd81985296f8eaaf6ef",
+            "ddd02c6fb780d4f6c683d3e7114aaa37",
+            "edb4574369f95b50689cbb453f479f9f",
+            "f8d3af1d1a20123c249ba97ee36ba54",
+            "ff2b8253ca3190d5d65fb76f5f0a1db7"
+        ]
+    }
+]
