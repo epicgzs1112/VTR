@@ -11,19 +11,26 @@ View transformation robustness (VTR) is critical for deeplearning-based multi-vi
 ## Dependencies
 - python
 - pytorch & torchvision
+- tensorboardX
 - numpy
 - matplotlib
 - pillow
 - opencv-python
-- kornia
 - tqdm
 - argparse
 - shutil
+- tqdm
+- rich
+- pix2vox++, following their [instruction](https://gitlab.com/hzxie/Pix2Vox)
+- LRGT, following their [instruction](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
+- Zero123, following their [instruction](https://github.com/cvlab-columbia/zero123/tree/main)
 
 
 ## Training
+For training, you first pretrain the reconstruction model, pix2vox++ and LRGT(the pretarin model are as follow). Then you can simply use the following command: `train_ours.sh`
 
 ## Testing
+We provide the testing script, which you can run as following: `test_on_voxel.sh`
 
 ## Pretrained models
 
