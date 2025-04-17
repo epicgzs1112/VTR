@@ -30,7 +30,7 @@ View transformation robustness (VTR) is critical for deeplearning-based multi-vi
 For training, you first pretrain the reconstruction model, pix2vox++ and LRGT (the pretrained models are as follow). Then you can simply use the following command: `sh train_ours.sh`
 
 ## Testing
-We provide the testing script, which you can run as following: `sh test_on_voxel.sh`
+We provide the testing script, which you can run as follows: `sh test_on_voxel.sh`
 
 ## Pretrained models
 You can download the checkpoints at this [link](https://pan.baidu.com/s/1LSk4DAqIp9aqxlILJ0kUaQ?pwd=r9s3) code: r9s3
