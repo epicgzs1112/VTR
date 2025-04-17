@@ -40,11 +40,13 @@ This work was supported in parts by NSFC (62202312, U21B2023), Guangdong Basic a
 
 ## Reference
 ```
-@inproceedings{VTR25,
-title={View Transformation Robustness for Multi-View 3D Object Reconstruction With Reconstruction Error-Guided View Selection},
-author={Qi Zhang and Zhouhang Luo and Tao Yu and Hui Huang},
-booktitle={AAAI},
-pages={},
-year={2025},
+@inproceedings{zhang2025view,
+  title={View Transformation Robustness for Multi-View 3D Object Reconstruction with Reconstruction Error-Guided View Selection},
+  author={Zhang, Qi and Luo, Zhouhang and Yu, Tao and Huang, Hui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={10},
+  pages={10076--10084},
+  year={2025}
 }
 ```
