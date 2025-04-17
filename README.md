@@ -39,6 +39,7 @@ You can download the checkpoints at this [link](https://pan.baidu.com/s/1LSk4DAq
 This work was supported in parts by NSFC (62202312, U21B2023), Guangdong Basic and Applied Basic Research Foundation (2023B1515120026), Shenzhen Science and Technology Program (KQTD 20210811090044003, RCJC20200714114435012), and Scientific Development Funds from Shenzhen University.
 
 ## Reference
+If you feel the paper is useful or use the code of the paper, please cite our paper:
 ```
 @inproceedings{zhang2025view,
   title={View Transformation Robustness for Multi-View 3D Object Reconstruction with Reconstruction Error-Guided View Selection},
