@@ -31,6 +31,25 @@ import sys
 sys.path.insert(0, sys.path[0]+"/../")
 
 args = get_opts()
+os.environ['CUDA_VISIBLE_DEVICES'] = '7'
+# 设置分布式训练环境变量（如果不存在）
+def setup_distributed_env():
+    """设置分布式训练环境变量"""
+    required_env_vars = {
+        'MASTER_ADDR': 'localhost',
+        'MASTER_PORT': '29690',
+        'RANK': '0',
+        'WORLD_SIZE': '1',
+        'LOCAL_RANK': '0'
+    }
+    
+    for var, default_value in required_env_vars.items():
+        if var not in os.environ:
+            os.environ[var] = default_value
+            print(f"设置环境变量 {var}={default_value}")
+
+# 调用环境变量设置函数
+setup_distributed_env()
 
 args.rank = int(os.environ["RANK"])
 args.world_size = int(os.environ['WORLD_SIZE'])
