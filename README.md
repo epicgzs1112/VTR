@@ -7,6 +7,15 @@ This is the official implementation for the AAAI 2025 paper `VTR'.
 ## Abstract
 View transformation robustness (VTR) is critical for deeplearning-based multi-view 3D object reconstruction models, which indicates the methods’ stability under inputs with various view transformations. However, existing research seldom focuses on view transformation robustness in multi-view 3D object reconstruction. One direct way to improve the models’ VTR is to produce data with more view transformations and add them to model training. Recent progress on large vi- sion models, particularly Stable Diffusion models, has provided great potential for generating 3D models or synthesizing novel view images with only a single image input. To fully utilize the power of Stable Diffusion models without causing extra inference computation burdens, we propose to generate novel views with Stable Diffusion models for better view transformation robustness. Instead of synthesizing random views, we propose a reconstruction error-guided view selection method, which considers the reconstruction errors’ spatial distribution of the 3D predictions and chooses the views that could cover the reconstruction errors as much as possible. The methods are trained and tested on sets with large view transformations to validate the 3D reconstruction models’ robustness to view transformations. Extensive experiments demonstrate that the proposed method can outperform state-of-the-art 3D reconstruction methods and other view transformation robustness comparison methods.
 
+## Preliminary work
+We should do some preliminary work before install dependencies.
+
+```
+git clone https://github.com/CompVis/taming-transformers.git
+pip install -e taming-transformers/
+git clone https://github.com/openai/CLIP.git
+pip install -e CLIP/
+```
 
 ## Dependencies
 - python
@@ -24,6 +33,7 @@ View transformation robustness (VTR) is critical for deeplearning-based multi-vi
 - pix2vox++, following their [instruction](https://gitlab.com/hzxie/Pix2Vox)
 - LRGT, following their [instruction](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
 - Zero123, following their [instruction](https://github.com/cvlab-columbia/zero123/tree/main)
+
 
 
 ## Training
