@@ -26,11 +26,11 @@ __C.CONST.IMG_W = 224  # Image width for input
 __C.CONST.IMG_H = 224  # Image height for input
 __C.CONST.CROP_IMG_W = 128  # Dummy property for Pascal 3D
 __C.CONST.CROP_IMG_H = 128  # Dummy property for Pascal 3D
-__C.CONST.BATCH_SIZE_PER_GPU = 24
+__C.CONST.BATCH_SIZE_PER_GPU = 16
 __C.CONST.N_VIEWS_RENDERING = 3
 __C.CONST.NUM_WORKER = 20  # number of data workers
 __C.CONST.WEIGHTS = \
-    '/PATH/TO/checkpoint.pth'
+    '/media/lch/zm1/3DVOXELR /VTR/VTR checkpoints/LRGT_ours.pth'
 
 # Directories
 __C.DIR = edict()
